@@ -1,1 +1,1 @@
-Simple java tic-tac-toe game
+Java TicTacToe game played in terminal
